@@ -1,0 +1,103 @@
+html{background-color:#E3E2DD;
+
+}
+
+body {
+	margin:  0px;
+	text-align: middle;
+}
+
+img logo{
+	width: 360px;
+}
+.site-banner{
+
+border-top:  12px solid midnightblue ;
+border-bottom:  12px solid midnightblue;
+padding-top:15px ;
+padding-bottom: 15px;
+padding-right: 15x;
+padding-left:15px;
+text-align: left;
+}
+.site-banner h3{
+
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 28px;
+	color: midnightblue;
+	letter-spacing: 1px;
+	margin-left: 60px;
+}
+.article{
+max-width: 1400px;
+margin-right: 5%;
+margin-left: 5%;
+align-content: middle;
+border-bottom:  12px solid midnightblue;
+padding-top:15px ;
+
+}
+
+.story-header{
+font-family:  unset;
+font-size: 20px;
+}
+ .h1{
+ 	font-size:  46px;
+ 	margin-bottom: 0px;
+ 	text-align: right;
+ }
+.by-line{
+
+	font-weight: italic;
+}
+
+ .story-copy{
+ 	font-family: sans-serif;
+ 	font-size:  18px;
+ }
+ img{
+ 	width: 100%;
+ }
+
+.photo-caption{
+color:  midnightblue;
+font-size: 14px;
+margin-top: 0px;
+}
+
+.footer{
+font-family: monospace;
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+.footer-info{
+	color:  gray;
+	font-size:8px;
+
+}
+.article a{
+color:  blue;
+background-color:  transparent;
+text-decoration: underline;
+
+}
+
+.footer h3{
+
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 6px;
+	color: #de2f23;
+	letter-spacing: 0px;
+}
+}
+
+
+
+
+
+
+
